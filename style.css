@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+.container {
+  border: 1px #bbb solid;
+  margin: 0 auto;
+}
+.container-text {
+  padding-left: 10px;
+  padding-right: 3px;
+}
+.cont {
+  padding: 2px 16px;
+  background-color: #f1f1f1;
+}
+.expire {
+  color: red;
+}
+.cont p span {
+  background-color: #bbb;
+  padding: 3px;
+}
